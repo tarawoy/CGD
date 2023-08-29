@@ -76,7 +76,7 @@ if response.status_code == 200:
 else:
     print("Error, claim failed.")
 
-with open('cookies.txt', 'r') as f:
+with open('cookies1.txt', 'r') as f:
     rawcookies = f.read()
     cookie = SimpleCookie()
     cookie.load(rawcookies)
