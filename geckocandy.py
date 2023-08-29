@@ -49,7 +49,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -121,7 +121,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun1: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -194,7 +194,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun2: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -268,7 +268,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun3: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -342,7 +342,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun4: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -416,7 +416,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun5: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -489,7 +489,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun6: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -563,7 +563,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun7: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -636,7 +636,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun8: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -709,7 +709,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun9: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -783,7 +783,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun10: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -857,7 +857,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun11: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -931,7 +931,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun12: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -1005,7 +1005,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun13: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -1079,7 +1079,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun14: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
@@ -1153,7 +1153,7 @@ def get_candy_balance():
     else:
         print("Error, check cookies or connection.")
 
-print(f"Current Candy Balance: {get_candy_balance()}")
+print(f"Current Candy Balance Akun15: {get_candy_balance()}")
 
 response = requests.get(candy_url, params=params, cookies=cookies, headers=headers)
 if response.status_code == 200:
